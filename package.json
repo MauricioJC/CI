@@ -1,0 +1,14 @@
+{
+    "name": "ci",
+    "description": "ci project",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
